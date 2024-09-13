@@ -47,7 +47,7 @@ int main(void)
 
 ```
 ## OUTPUT
-![alt text](![output1](https://github.com/user-attachments/assets/553e5a88-e870-4012-9ae7-f14bce9cd63b))
+![output1](https://github.com/user-attachments/assets/46e52070-e7c3-454c-b11d-7c795a66256a)
 
 
 
