@@ -92,7 +92,7 @@ exit(0);}
 
 ## OUTPUT
 
-![alt text](outputcc_2.png)
+![output1](https://github.com/user-attachments/assets/3047e012-f4f4-4e2e-9394-d22552a6ffff)
 
 
 
@@ -134,12 +134,12 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT
 
-![alt text](otuputcc_3.png)
-![alt text](outputcc_4.png)
-![alt text](outputcc_5.png)
-![alt text](outputcc_6.png)
-![alt text](outputcc_7.png)
-![alt text](outputcc_8.png)
+![otuputcc_3](https://github.com/user-attachments/assets/40999526-3bc4-420b-a91a-3747791b7ab3)
+![outputcc_4](https://github.com/user-attachments/assets/cd545bb0-4216-4a9b-9288-e48418f68505)
+![outputcc_5](https://github.com/user-attachments/assets/3d76fc49-ab62-4ac7-8078-d3b7d4f7b839)
+![outputcc_6](https://github.com/user-attachments/assets/ea77263d-30f8-4da6-a7f3-368dfde32bd6)
+![outputcc_7](https://github.com/user-attachments/assets/224729d5-e841-40eb-a902-bf1219b05950)
+![outputcc_8](https://github.com/user-attachments/assets/bf2301ed-aae9-4626-b44f-25e8c08d8097)
 
 # RESULT:
 The programs are executed successfully.
